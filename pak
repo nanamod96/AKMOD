@@ -1,0 +1,15 @@
+cd $HOME/AKMOD
+chmod +x /data/user/0/com.termux/files/home/AKMOD/script/NON_CHUNK/unpack.bms
+chmod +x /data/user/0/com.termux/files/home/AKMOD/script/NON_CHUNK/repack.bms
+chmod +x /data/user/0/com.termux/files/home/AKMOD/script/CHUNK/unpack.bms
+chmod +x /data/user/0/com.termux/files/home/AKMOD/script/CHUNK/repack.bms
+chmod +x menu
+chmod +x menupak
+chmod +x unpak
+chmod +x repak
+chmod +x menuobb
+chmod +x menumap
+chmod +x map
+chmod +x skinobb
+chmod +x skinpak
+./menu
