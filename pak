@@ -12,4 +12,7 @@ chmod +x menumap
 chmod +x map
 chmod +x skinobb
 chmod +x skinpak
+chmod +x unlock
+chmod +x menufps
+chmod +x comparefile
 ./menu
